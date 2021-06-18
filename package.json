@@ -1,0 +1,19 @@
+{
+  "name": "devfinance",
+  "version": "1.0.0",
+  "description": "Aplicação desenvolvida com o intuito de controlar finanças, com a possibilidade de adicionar, remover e listar transações financeiras.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusRWarmling/DevFinances.git"
+  },
+  "author": "Mateus Roberge Warmling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusRWarmling/DevFinances/issues"
+  },
+  "homepage": "https://github.com/MateusRWarmling/DevFinances#readme"
+}
